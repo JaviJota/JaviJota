@@ -1,16 +1,36 @@
-## Hi there 👋
 
-<!--
-**JaviJota/JaviJota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center" style="font-weight: bold;">Javi Jiménez 💻</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+<a href="#tech">Technologies</a>
+<a href="#started">Getting Started</a>
+<a href="#routes">API Endpoints</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+</p>
+
+
+<p align="center">Full Stack Developer</p>
+
+
+<p align="center">
+<a href="https://www.linkedin.com/in/javierjimenezc1/">📱 Contact me</a>
+</p>
+
+<h2 id="started">🚀 Getting started</h2>
+
+Desarrollador full-stack con experiencia en JavaScript, React y Python, apasionado por crear aplicaciones web. Enfocado en la calidad y aprendizaje continuo.
+
+<h2 id="technologies">💻 Technologies</h2>
+
+- React 
+- JavaScript
+- Python
+- HTML5
+- Flask
+- SQL
+- CSS
+- TailwindCSS
+- Bootstrap
+- Git
+- Figma
